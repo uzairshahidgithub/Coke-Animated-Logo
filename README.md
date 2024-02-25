@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uzair</h1>
-<h3 align="center">A passionate developer from pakistan</h3>
+<h3 align="center">This project comprises legal educational content protected by copyright claims.</h3>
 
 - 🌱 I’m currently learning **C++ Frameworks and Basics of AI/ML and Cloud.**
 
