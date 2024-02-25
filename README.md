@@ -1,2 +1,3 @@
 # Coke Animated Logo
- Using HTML CSS .
+In Project Using HTML CSS.
+Legal Educational Content Copyright Claim.
