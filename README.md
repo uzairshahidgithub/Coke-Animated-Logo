@@ -1,10 +1,10 @@
-<br clear="both">
-
-<h2 align="left">About Me</h2>
+<img align="left" height="180" src="https://i.pinimg.com/564x/24/9e/6b/249e6b727205861e4c367173d95007e6.jpg"  />
 
 ###
 
-<br clear="both">
+<h1 align="left">Muhammad Uzair</h1>
+
+###
 
 <p align="left">👨‍💻 Creating Bugs Since 2021<br>🎯 Goals to Making influence in Tech Industry<br>💡 Fighting with Errors? Congratulations, you're hired!</p>
 
@@ -12,10 +12,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uzairshahidgithub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&order=2" height="135" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=uzairshahidgithub&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="135" alt="streak graph"  />
-</div>
+<h2 align="left">More About Me</h2>
 
 ###
 
