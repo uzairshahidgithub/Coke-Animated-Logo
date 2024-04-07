@@ -19,10 +19,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/uzairshahidgithub/uzairshahidgithub/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">Feel free to explore my LinkedIn profile or bio for more details on my professional background. I'm open to connecting with fellow enthusiasts, collaborating on projects, or discussing exciting opportunities.</p>
 
 ###
