@@ -1,21 +1,3 @@
-<img align="left" height="180" src="https://i.pinimg.com/564x/24/9e/6b/249e6b727205861e4c367173d95007e6.jpg"  />
-
-###
-
-<h1 align="left">Muhammad Uzair</h1>
-
-###
-
-<p align="left">👨‍💻 Creating Bugs Since 2021<br>🎯 Goals to Making influence in Tech Industry<br>💡 Fighting with Errors? Congratulations, you're hired!</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">More About Me</h2>
-
-###
-
 <p align="center">Feel free to explore my LinkedIn profile or bio for more details on my professional background. I'm open to connecting with fellow enthusiasts, collaborating on projects, or discussing exciting opportunities.</p>
 
 ###
